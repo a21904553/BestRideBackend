@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+[packages]
+environs = "==8.0.0"
+django = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
+mysqlclient = "*"
+boto3 = "*"
+djangorestframework-gis = "*"
+urllib3 = "*"
+psycopg2 = "*"
+[dev-packages]
+[requires]
+python_version = "3.9"
