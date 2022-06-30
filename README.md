@@ -24,14 +24,13 @@ python -m pip install Django
 
 -pip install psycopg2
 
-
 ## Video
 
-https://youtu.be/SSl-7j_Lo4w
+https://www.youtube.com/gxU4hCzMXTc
 
 
-##Manual de Utilização
-###Web Services utilizados:
+#Manual de Utilização
+##Web Services utilizados:
 ####Login:
 Recebe como argumento JSON com o username e a password;
 Envia em JSON os dados do User (Turista);
