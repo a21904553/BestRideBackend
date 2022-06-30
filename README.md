@@ -29,6 +29,7 @@ python -m pip install Django
 
 https://youtu.be/SSl-7j_Lo4w
 
+
 ##Manual de Utilização
 ###Web Services utilizados:
 ####Login:
